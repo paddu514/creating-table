@@ -1,0 +1,7 @@
+mysql> create table Pavan (
+    -> PersonID int,
+    -> Firstname varchar(255),
+    -> Secondname varchar(255),
+    -> Lastname varchar(255),
+    -> Address varchar(255));
+Query OK, 0 rows affected (0.98 sec)
